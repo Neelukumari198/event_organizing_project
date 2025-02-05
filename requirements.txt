@@ -6,3 +6,7 @@ PyMySQL==1.1.1
 sqlparse==0.5.3
 tzdata==2025.1
 whitenoise==6.8.2
+certifi==2025.1.31 
+cloudinary==1.42.1 
+six==1.17.0 
+urllib3==2.3.0
